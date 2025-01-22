@@ -1,2 +1,0 @@
-# novo_repositorio
-Teste
